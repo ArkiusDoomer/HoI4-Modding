@@ -1,0 +1,30 @@
+state={
+	id=766
+	name="STATE_766"
+
+	state_category = large_city
+
+	history={
+		owner = ASK
+		add_core_of = ASK
+		add_core_of = CAS
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			13203 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			13203 10 
+		}
+	}
+
+	provinces={
+		10707 13203 13202 
+	}
+	manpower=1039283
+	buildings_max_level_factor=1.000
+}

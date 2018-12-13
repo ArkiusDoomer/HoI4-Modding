@@ -1,0 +1,26 @@
+state={
+	id=768
+	name="STATE_768"
+
+	state_category = rural
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		add_core_of = CAL
+		buildings = {
+			infrastructure = 6
+			air_base = 3
+			610 = {
+				naval_base = 1
+			}
+
+		}
+	}
+
+	provinces={
+		610 781 3588 10159 4331 6665 6482 3644 
+	}
+	manpower=1039283
+	buildings_max_level_factor=1.000
+}

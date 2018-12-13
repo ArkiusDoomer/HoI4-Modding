@@ -1,0 +1,21 @@
+state={
+	id=764
+	name="STATE_764"
+	manpower = 745920
+	
+	state_category = rural
+	
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = POL
+	}
+
+	provinces={
+		290 11274 11301 11329 11357 
+	}
+}

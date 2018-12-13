@@ -1,0 +1,22 @@
+state={
+	id=771
+	name="STATE_771"
+
+	state_category = rural
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		 1832 4838 12124 12676 
+	}
+	manpower=329854
+	buildings_max_level_factor=1.000
+}
