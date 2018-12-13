@@ -1,0 +1,48 @@
+﻿capital = 101
+
+OOB = "INU_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 60
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		communism = {
+			popularity = 8
+		}
+		
+		neutrality = { 
+			popularity = 32
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_convoys = 5
+
+create_country_leader = {
+	name = "Erik Magnussen"
+	desc = "POLITICS_WILL_BAILEY_DESC"
+	picture = "gfx/leaders/Europe/Portrait_FNS_Phil_Fontaine.dds"
+	expire = "1965.1.1"
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
