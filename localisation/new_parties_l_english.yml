@@ -1,5 +1,5 @@
 ﻿l_english:
- CAS_fascism_party:0 "Cascadia United Bloc"
+ CAS_fascism_party:0 "Northwest Front"
  CAS_communism_party:0 "Cascadian Socialist Party"
  CAS_democratic_party:0 "Cascade Federalist Party"
  CAS_neutrality_party:0 "Columbian Union Party"
@@ -100,3 +100,9 @@
  ONT_communism_party:0 "Socialist Party of Ontario"
  ONT_democratic_party:0 "Ontario Liberal Party"
  ONT_neutrality_party:0 "Ojibwe People's Party"
+ BEN_fascism_party:0 "BNP"
+ BEN_fascism_party:0 "Bangladesh Nationalist Party"
+ BEN_communism_party:0 "Bangladesh Worker's Party"
+ BEN_democratic_party:0 "BAL"
+ BEN_democratic_party:0 "Bangladesh Awami League"
+ BEN_neutrality_party:0 "Bengal Royalist Party"
