@@ -1,0 +1,24 @@
+ideas = {
+	country = {
+		AST_dwindling_democracy = {
+
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			picture = FRA_matignon_agreements
+			
+			modifier = {
+				democratic_drift = -0.05
+				fascism_drift = 0.01
+				stability_factor = -0.05
+			}
+		}
+	}
+}
