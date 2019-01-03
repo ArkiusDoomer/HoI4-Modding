@@ -566,6 +566,11 @@ ONT = {
 	color_ui = rgb { 178 34 34 }
 }
 
+BEN = {
+	color = rgb { 25 140 80	}
+	color_ui = rgb { 25 140 80 }
+}
+
 D01 = {
 	color = rgb { 200 100 31 }
 	color_ui = rgb { 245 123 38 }
