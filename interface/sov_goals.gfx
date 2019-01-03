@@ -1,0 +1,13 @@
+spriteTypes = {	
+	
+	#### Spanish goal icons
+	#### NOT SPAIN
+	#### NOT SIAM EITHER
+
+	SpriteType = { 
+		name = "GFX_focus_AST_beacon_of_democracy"
+		texturefile = "gfx/interface/goals/focus_AST_beacon_of_democracy.dds"
+	}
+
+
+}
